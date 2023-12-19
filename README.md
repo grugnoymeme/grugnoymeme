@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**grugnoymeme/grugnoymeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+from netherlands import green_stuff
 
-Here are some ideas to get you started:
+class ThatsItThatsAll():
+    def __init__(self):
+        self.username = "47lecoste a.k.a. grugnoymeme"
+        self.role = "Amazon-Delivery"
+        self.language = ["Italiano", "English", "Español", "Fran¢es"]
+        self-.hobbyes = ["Coding", "Cooking", "Reading"]
+        self.location = "/bin/zsh"
+        self.enjoy = ["FrontEnd", "Python", "Shell", "PHP", "Linux"]
+        self.learning = ["C, Swift, Rust"]
+        self.working_on = ["Flipper_Zero", "SubGHz_Frequencies"]
+        self.stay = "High"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def be_happy(self):
+        if self.roll_weed == None:
+           buy.some(self.get_high)
+
+
+if name == "__main__":
+	me = ThatsItThatsAll()
+```
