@@ -1,7 +1,7 @@
 ### Ciao 
 
 ```Python
-dai Holland importa green_stuff
+from Holland import green_stuff
 
 class ThatsItThatsAll () :
  def __init __ (self) :
