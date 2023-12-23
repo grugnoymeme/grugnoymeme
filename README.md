@@ -19,7 +19,6 @@ class ThatsItThatsAll():
         if self.roll_weed == None:
             buy.some_or_grow_yourself(self.get_high)
 
-
 if name == "__main__":
     me = ThatsItThatsAll()
 ```
