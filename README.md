@@ -7,7 +7,7 @@ class ThatsItThatsAll () :
  def __init __ (self) :
  self.username = "47lecoste a.k.a. grugnoymeme "
  self.role = "Amazon-Delivery"
- self.language = ["Italiano", "inglese", "Español", "Frances"]
+ self.language = ["Italiano", "English", "Español", "Frances"]
  auto-hobbyes = ["Coding", "Cooking", "Reading"]
  self.location = "/bin/zsh"
  self.enjoy = ["FrontEnd", "Python", "Shell", "PHP", "Linux"]
