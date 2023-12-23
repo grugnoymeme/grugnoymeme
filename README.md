@@ -1,19 +1,19 @@
 ### Ciao 
 
 ```Python
-from Holland import green_stuff
+from Nederlands import green_stuff
 
 class ThatsItThatsAll () :
  def __init __ (self) :
  self.username = "47lecoste a.k.a. grugnoymeme "
  self.role = "Amazon-Delivery"
- self.language = ["Italiano", "inglese", "Español", "Fran ¢ es"]
- auto-hobbyes = ["Codifica", "Cottura", "Lettura"]
- self.location = "/ bin / zsh"
+ self.language = ["Italiano", "inglese", "Español", "Frances"]
+ auto-hobbyes = ["Coding", "Cooking", "Reading"]
+ self.location = "/bin/zsh"
  self.enjoy = ["FrontEnd", "Python", "Shell", "PHP", "Linux"]
- self.learning = ["C, Swift, Rust"]
+ self.learning = ["C", "Swift", "Rust"]
  self.working_on = ["Flipper_Zero", "SubGHz_Frequencies"]
- self.stay = "Alto"
+ self.stay = "High"
 
  def be_happy (self) :
  if self.roll_weed == None :
