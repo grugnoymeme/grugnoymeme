@@ -11,7 +11,7 @@ class ThatsItThatsAll():
         self.hobbyes = ["Coding", "Cooking", "Reading"]
         self.location = "/bin/zsh"
         self.enjoy = ["Web_Developement", "Python", "Shell", "PHP", "Unix"]
-        self.learning = ["C", "Swift", "Rust"]
+        self.learning = ["C", "Swift", "Rust", "Go"]
         self.working_on = ["Flipper_Zero", "SubGHz_Frequencies"]
         self.stay = "Hard and High"
 
