@@ -7,7 +7,7 @@ class ThatsItThatsAll():
         self.birthday = "14.11"
         self.oroscope = "Scorpion/Scorpion"
         self.role = "Amazon_Delivery"
-        self.language = ["Italiano", "English", "Español", "Frances"]
+        self.language = ["Italiano", "English", "Español", "Francais"]
         self.hobbyes = ["Coding", "Cooking", "Reading"]
         self.location = "/bin/zsh"
         self.enjoy = ["FrontEnd", "Python", "Shell", "PHP", "Unix"]
