@@ -10,7 +10,7 @@ class ThatsItThatsAll():
         self.language = ["Italiano", "English", "Español", "Francais"]
         self.hobbyes = ["Coding", "Cooking", "Reading"]
         self.location = "/bin/zsh"
-        self.enjoy = ["FrontEnd", "Python", "Shell", "PHP", "Unix"]
+        self.enjoy = ["Web_Developement", "Python", "Shell", "PHP", "Unix"]
         self.learning = ["C", "Swift", "Rust"]
         self.working_on = ["Flipper_Zero", "SubGHz_Frequencies"]
         self.stay = "Hard and High"
